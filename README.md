@@ -1,13 +1,13 @@
 # Ecommerce-project
 Analyzed an eCommerce dataset using SQL to query and process necessary information to optimize business strategies and improve decision-making.
 # Table of Contents:
-1. Introduction and Motivation
-2. The goal of creating this project
-3. Import raw data
-4. Read and explain dataset
-5. Data Processing & Exploratory Data Analysis
-6. Answer questions and give explain
-7. Conclusion
+1. [Introduction and Motivation](#1-introduction-and-motivation)  
+2. [The Goal of Creating This Project](#2-the-goal-of-creating-this-project)  
+3. [Import Raw Data](#3-import-raw-data)  
+4. [Read and Explain Dataset](#4-read-and-explain-dataset)  
+5. [Data Processing & Exploratory Data Analysis](#5-data-processing--exploratory-data-analysis)  
+6. [Answer Questions and Give Explanation](#6-answer-questions-and-give-explanation)  
+7. [Conclusion](#7-conclusion)  
 
 ***
 # 1. Introduction and Motivation
