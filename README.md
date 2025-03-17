@@ -1,4 +1,4 @@
-# Ecommerce-project
+# SQL-Ecommerce-project
 Analyzed an eCommerce dataset using SQL to query and process necessary information to optimize business strategies and improve decision-making.
 # Table of Contents:
 1. [Introduction and Motivation](#1-introduction-and-motivation)  
